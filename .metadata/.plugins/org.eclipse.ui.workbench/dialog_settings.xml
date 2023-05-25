@@ -20,20 +20,25 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
+			<item value="about"/>
 			<item value="preferences"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.ui.actions"/>
+			<item value="org.eclipse.ui.actions"/>
 		</list>
 		<list key="textEntries">
 			<item value="1"/>
+			<item value="2"/>
 		</list>
 		<list key="textArray">
+			<item value="about"/>
 			<item value="prefer"/>
+			<item value="preference"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
 			<item value="org.eclipse.jst.ejb.ui"/>
@@ -43,7 +48,6 @@
 			<item value="org.eclipse.jst.j2ee.internal"/>
 			<item value="org.eclipse.emf.codegen.ui.JETNewWizards"/>
 			<item value="org.eclipse.wst.jsdt.ui.java"/>
-			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
 			<item value="org.eclipse.wst.web.ui"/>
 		</list>
 	</section>
