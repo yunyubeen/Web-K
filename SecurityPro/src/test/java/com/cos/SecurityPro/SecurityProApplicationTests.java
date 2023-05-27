@@ -1,4 +1,4 @@
-package com.example.Webpro;
+package com.cos.SecurityPro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
