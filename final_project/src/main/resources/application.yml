@@ -38,8 +38,8 @@ spring:
             - profile
             
           facebook:
-            client-id: 717586280372879
-            client-secret: db556e5cfcc3cd3ef76cf9535ce3cdc5
+            client-id: 1001663940772402
+            client-secret: 402e788aa8371cc47a2f2dde32cee4c4
             scope:
             - email
             - public_profile
@@ -52,8 +52,7 @@ spring:
             scope:
             - profile_nickname
             - profile_image
-            
-       
+           
             
        
           naver:
